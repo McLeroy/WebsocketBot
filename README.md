@@ -30,4 +30,4 @@ These instructions will get you a copy of the project up and running on your loc
 - open a command prompt and type `ipconfig` to get your IPv4 Address.
 - Grab any Websocket client of your choice and connect to `ws://{ipv4address}?deviceId={any random string}` e.g **ws://10.3.1.160?deviceId=686a603d-f287-4c06-8369-3f116d1aa724**
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md]([https://github.com/McLeroy/WebsocketBot/blob/master/LICENSE](https://github.com/McLeroy/WebsocketBot/blob/master/LICENSE)) file for details
+This project is licensed under the MIT License - see the [LICENSE.md]([https://github.com/McLeroy/WebsocketBot/blob/master/LICENSE)) file for details
